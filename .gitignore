@@ -1,0 +1,73 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python packaging and distribution
+*.so
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment (explicit)
+bin/
+share/
+include/
+venv/
+env/
+ENV/
+.env/
+.venv/
+pyvenv.cfg
+.Python
+
+# Environment Variables and Secrets
+.env
+.env.local
+.env.*.local
+*.env
+.secrets
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing and Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Project-specific excludes
+*.log
+*.sqlite
+*.db
+
+# Explicitly tracked files (examples)
+!requirements.txt
