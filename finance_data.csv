@@ -1,8 +1,14 @@
 date,amount,category,description
-20-12-2024,2000.0,Income,Got from brother.
+01-12-2024,5000.0,Income,From freelance project!
+03-12-2024,50000.0,Income,Salary
 10-12-2024,1000.0,Expense,I ate outside - burger
 10-12-2024,1000.0,Expense,I went to a museum!
+10-12-2024,1000.0,Expense,Went outside for lunch.
+15-12-2024,5000.0,Expense,shoes
+20-12-2024,2000.0,Income,Got from brother.
+20-12-2024,3000.0,Expense,Dinner
 20-12-2024,500.0,Income,I got it from freelance work!
+22-12-2024,600.0,Income,I earned from freelancing
+
 28-12-2024,400.0,Income,I got it from Brother!
 28-12-2024,200.0,Expense,I ate the icecream!
-22-12-2024,600.0,Income,I earned from freelancing

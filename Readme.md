@@ -9,6 +9,18 @@ A simple Python-based application to help you track your income and expenses, pr
 - **User-friendly Interface**: Simple command-line interface for quick and easy access to your financial records.
 - **Export Data**: Save your financial records in CSV format for further analysis or record-keeping.
 
+## Demo & Visualization
+
+### Application Demo
+Click on the link below to watch the demonstration of the Finance Tracker App:
+
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1-7rk9Fm8nxWk_Nr0i0OYuyqvC8IaPalX/view?usp=sharing)
+
+### Financial Insights Graph
+Sample visualization of income and expenses:
+
+![Finance Graph](finance-graph.png)
+
 ## Requirements
 
 Before you begin, ensure you have the following:
